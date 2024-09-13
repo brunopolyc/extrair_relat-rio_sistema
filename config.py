@@ -1,0 +1,5 @@
+import os
+
+USUARIO_PROTHEUS = 'bruno.polycarpo'
+SENHA_PROTHEUS = 'Bru!0704'
+MODULO_CONTABILIDADE = "34"
